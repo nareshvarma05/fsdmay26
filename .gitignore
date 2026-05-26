@@ -4,15 +4,12 @@
 # Ignore temporary files
 *.tmp
 
-# Ignore VS Code settings
-.vscode/
-
-# Ignore node modules
-node_modules/
-
-# Ignore environment file
-.env
-
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment files
+.env
